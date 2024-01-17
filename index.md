@@ -1,14 +1,15 @@
 #Sri Lankan Tech Community
 
-Sri Lankan Tech Community excited to organzie an event and host Global Azure 2024. The event will be focused on Azure Technolog.
+The Sri Lankan Tech Community is excited to organize an event and host Global Azure 2024. The event will be focused on Azure Technology.
 
 Join us for our upcoming event on DevOps on Azure, AI On Azure, and Copilot in Azure, where we'll explore the latest trends, technologies, and best practices for building modern technologies on the Azure platform.
 
 
-Call for Speakers wil open in January
+**The call for Speakers will open in February:**
+https://sessionize.com/global-azure-2024-sri-lanka
 
 
-🗓️ Event Detail:
+**🗓️ Event Detail:**
 
 Day: 20 April 2024
 
